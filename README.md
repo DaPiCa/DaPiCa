@@ -25,7 +25,7 @@ if __name__ == '__main__':
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently studying Computer Engineering
+- 🔭 I’m currently studying Computer Science
 
 - 🌱 I’m currently learning Data Science, Data Engineering, Distributed Systems, Intelligent Systems, Computer Architecture 
   
